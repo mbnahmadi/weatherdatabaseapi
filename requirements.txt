@@ -1,5 +1,7 @@
 asgiref==3.8.1
 Django==5.1
 django-environ==0.12.0
+django-postgres-copy==2.7.6
+psycopg2==2.9.10
 sqlparse==0.5.3
 tzdata==2025.1
